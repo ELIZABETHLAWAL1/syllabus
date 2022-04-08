@@ -43,3 +43,9 @@ During Fundamentals, we will be building a website with a block-based programmin
 :::tip
 You must prepare for class by creating all the accounts on the [accounts and tools](./accounts-and-tools) page. **Come to class prepared.**
 :::
+### Prep 5:  Linkedin - Preparing to enter the industrY
+:::
+As you start to develop your technical skills, it is important to remember that you are preparing to enter the job market. Exercise your professional communication skills by setting up a Linkedin account and let your future employers know that you have started your journey into the tech industry. 
+:::
+Stretch Goal: 
+Find 5 interesting full stack developer profiles on linkedin and map out their career journey. What was their first role? What are their current responsibilities? Write down your career goals. 
